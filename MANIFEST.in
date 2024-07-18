@@ -1,0 +1,2 @@
+recursive-include markdown_to_html_converter/styles *.css
+recursive-include markdown_to_html_converter/templates *.html

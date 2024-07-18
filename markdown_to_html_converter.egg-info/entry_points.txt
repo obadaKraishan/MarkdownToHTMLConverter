@@ -1,0 +1,2 @@
+[console_scripts]
+md2html = markdown_to_html_converter.converter:main
